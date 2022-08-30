@@ -294,7 +294,7 @@ void Head(){
     glBegin(GL_QUADS);
     glVertex2f(25, 22);
     glVertex2f(25, 32);
-    glVertex2f(26, 32);
+    glVertex2f(26, 32 );
     glVertex2f(26, 22);
     glEnd();
     
